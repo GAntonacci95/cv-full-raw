@@ -181,10 +181,6 @@ Association website available [here](https://www.polifoniapolimi.it)
 
 - Basic tin-can telephone acoustical analysis. Soft skill: chinese whispers game, belief propagation and sum-product algorithm, gnutella, spf, dependencies, proxy, vpn.
 
-### Studies certification
-
-The digitally signed studies certification is available [here](https://github.com/GAntonacci95/cv-detail-polimi/blob/main/autocertificazione-lm-polimi_signedGA.pdf)
-
 ## IT 🇮🇹 (set 2018 - ott 2021)
 
 ### Tesi di Laurea Magistrale
@@ -240,10 +236,6 @@ Association website available [here](https://www.polifoniapolimi.it)
 
 - Analisi basilare del fonobarattolo. Soft skill: telefono senza fili, propagazione di credenze ed algoritmo somma-prodotto, gnutella, spf, dipendenze, intermediari, vpn.
 
-### Certificazione studi
-
-La certificazione degli studi firmata digitalmente è disponibile [qui](https://github.com/GAntonacci95/cv-detail-polimi/blob/main/autocertificazione-lm-polimi_signedGA.pdf)
-
 # cv-detail-unibo
 
 ## EN 🇬🇧 (sep 2014 - dec 2017)
@@ -274,10 +266,6 @@ Soft skill: orthogonality, single access point, positive and negative feedback l
 - Operating systems, semaphores and race conditions;
 - Telecommunications, electronics (DAC, ADC), electrics, automation and automatic controls;
 
-### Studies certification
-
-The digitally signed studies certification is available [here](https://github.com/GAntonacci95/cv-detail-unibo/blob/main/autocertificazione-lt-unibo_signedGA.pdf)
-
 ## IT 🇮🇹 (set 2014 - dic 2017)
 
 ### Tesi di Laurea Triennale
@@ -305,7 +293,3 @@ Soft skill: ortogonalità, singolo punto d'accesso, cicli feedback positivi e ne
 - Reti di calcolatori, protocolli e modello di comunicazione ISO/OSI;
 - Sistemi operativi, semafori, concorrenza e corse critiche;
 - Telecomunicazioni, elettronica (DAC, ADC), elettrotecnica, automazione, controlli automatici;
-
-### Certificazione studi
-
-La certificazione degli studi firmata digitalmente è disponibile [qui](https://github.com/GAntonacci95/cv-detail-unibo/blob/main/autocertificazione-lt-unibo_signedGA.pdf)
