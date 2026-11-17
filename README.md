@@ -16,10 +16,8 @@ Indeed, I prefer defuse and trigger or protection and exfiltration game modes.
 For further contact details, please refer to the attached pdf file.
 
 ### Professional experience
-- from 2022 to 2025 - CRIF S.p.A. - Advanced Analytics
-
+from 2022 to 2025 - CRIF S.p.A. - Advanced Analytics
 Data Engineer
-
 Building of batch and api solutions in AWS environment for the
 scoring of portfolios and the visualization of risk trends.
 Absorbed basic concepts of intermediation and message
