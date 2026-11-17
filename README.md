@@ -15,7 +15,7 @@ The solution strategy involved:
 - Data and artifact stack: data was stored into s3 datalakes as partitioned parquets including timestamps to create a history, the data loaded from the database followed an ETL pipeline and exploited schemas and a data lineage strategy;
 - Infrastructure stack: the application run through flow automated and orchestrated lambda functions;
 - Software stack: the lambdas dynamically loaded wheels, packages, and layers designed for independence and modularity to grant quality, usability and maintainability;
-- Output interfaces and monitoring: beyond output files, including the final json, logs and e-mails were introduced to monitor executions and metrics. Indeed, such logs were queried via cloudwatch, and an almost dynamic processes states visualization was provided through quicksight.
+- Output interfaces and monitoring: beyond output files, including the final json, logs and e-mails were introduced to monitor executions and metrics. Indeed, such logs were queried via cloudwatch, and an almost dynamic states visualization was provided for processes through quicksight.
 
 The solution expected results include: reduced enrichment time, reduced human error, enhanced operators productivity, and support for legal action decisions. However, we designed no quantitative kpi to highlight the process improvements.
 
