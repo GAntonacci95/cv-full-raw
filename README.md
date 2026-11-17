@@ -2,7 +2,7 @@
 
 ## Resume at a glance 🇬🇧
 ### Introduction
-Goodmorning, my name is Antonacci Gabriele,
+Good morning, my name is Antonacci Gabriele,
 
 I believe I am private, slightly conformist, open, eclectic, imaginative, intuitive.
 Depending on others’ behavior I can be suspicious and reactive.
