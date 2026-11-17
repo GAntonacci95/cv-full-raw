@@ -1,5 +1,164 @@
 # cv-full-raw
 
+## Resume at a glance 🇬🇧
+### Introduction
+Goodmorning, my name is Antonacci Gabriele,
+
+I believe I am private, slightly conformist, open, eclectic, imaginative, intuitive.
+Depending on others’ behavior I can be suspicious and reactive.
+I appreciate plans and strategies although my vision is myopic and I need to excercise memory.
+
+I love playing drums and guitar, what is more I started practicing muay thai.
+In everyday life I like analysing films and music sheets, writing, and attending music and social events.
+From time to time I play videogams like call of duty.
+Indeed, I prefer defuse and trigger or protection and exfiltration game modes.
+
+For further contact details, please refer to the attached pdf file.
+
+### Professional experience
+- from 2022 to 2025 - CRIF S.p.A. - Advanced Analytics
+
+Data Engineer
+
+Building of batch and api solutions in AWS environment for the
+scoring of portfolios and the visualization of risk trends.
+Absorbed basic concepts of intermediation and message
+passing based upon individual memory, group memory, and
+specific languages in multi-actor contexts. See information
+management.
+detail: https://github.com/GAntonacci95/cv-detail-crif
+(raw: https://raw.githubusercontent.com/GAntonacci95/cv-detail-crif/refs/heads/main/README.md )
+
+### Education
+- from 2018 to 2021 - Polytechnic University of Milan - 107/110
+
+M.Sc. in Music and Acoustic Engineering - Computer Science and Engineering
+
+Absorbed notions about audio and video analysis, processing
+and synthesis, uncertainty and error propagation in
+telecommunication processes, information tampering, sources
+trustworthiness and processes lifecycle.
+Adviser in Polifonia students’ music association board.
+detail: https://github.com/GAntonacci95/cv-detail-polimi
+(raw: https://raw.githubusercontent.com/GAntonacci95/cv-detail-polimi/refs/heads/main/README.md )
+
+- from 2014 to 2017 - University of Bologna - 106/110
+
+B.Sc. Computer Science and Engineering
+
+Absorbed notions about control theory, stochastic processes and
+signal theory, software design patterns and reflection,
+dependencies and race-conditions, computer networks, trust
+based hierarchical models and protocols.
+detail: https://github.com/GAntonacci95/cv-detail-unibo
+(raw: https://raw.githubusercontent.com/GAntonacci95/cv-detail-unibo/refs/heads/main/README.md )
+
+- from 2009 to 2014 - ISII Marconi of Piacenza - 100/100
+
+Computer Expert Diploma
+
+Creation of projects related to domains like remotely
+controlled automatics, synchronous and non-blocking chats,
+synchronous and blocking audio tonal chats, benign spyware
+softwares.
+detail: https://github.com/GAntonacci95/cv-detail-isii
+(raw: https://raw.githubusercontent.com/GAntonacci95/cv-detail-isii/refs/heads/main/README.md )
+
+### Soft skill
+
+basic information management, confidentiality and reliability,
+independence availability and altruism, authenticity and
+transparency with communication issues in case of emergency;
+method and result orientation, continuous learning integration
+and summarization, agenda and reminder handling.
+
+### Hard skill
+aws, docker, ecr, step function, api, lambda,
+athena, sql, s3 datalakes,
+events, schedules, triggers, requests, python, git,
+simple email service, cloudwatch,
+quicksight
+
+## CV in sintesi 🇮🇹
+### Introduzione
+Buongiorno, il mio nome è Antonacci Gabriele,
+
+mi reputo una persona privata, poco conformista, aperta, eclettica, fantasiosa, intuitiva.
+In base al comportamento altrui posso diventare sospettoso e reattivo.
+Apprezzo piani e strategie seppur ho una visione miope e devo esercitare la memoria.
+
+Adoro suonare batteria e chitarra, inoltre ho iniziato a praticare muay thai.
+Nella vita di tutti i giorni mi piace analizzare film e spartiti, scrivere e partecipare ad eventi di natura musicale e sociale.
+Saltuariamente gioco anche a videogiochi stile call of duty.
+Prediligo modalità di gioco che prevedono disinnesco ed innesco o protezione ed esfiltrazione.
+
+Per ulteriori dettagli di contatto, prego riferire al file pdf allegato.
+
+### Professional experience
+- dal 2022 al 2025 - CRIF S.p.A. - Advanced Analytics
+
+Data Engineer
+
+Messa a terra di soluzioni batch ed api in ambiente AWS per lo
+scoring di portafogli di credito e per la visualizzazione di
+andamenti di rischio.
+Assorbimento concetti base di intermediazione e passaggio di
+messaggi basati su memoria individuale, di gruppo e linguaggi
+specifici in contesti con molti attori. Vedi gestione informativa.
+detail: https://github.com/GAntonacci95/cv-detail-crif
+(raw: https://raw.githubusercontent.com/GAntonacci95/cv-detail-crif/refs/heads/main/README.md )
+
+### Education
+- dal 2018 al 2021 - Politecnico di Milano - 107/110
+
+Laurea Magistrale in Music and Acoustic Engineering - Ingegneria Informatica
+
+Assorbimento di nozioni su analisi, processo e sintesi di segnali
+audio e video, incertezza ed errore nei processi di
+telecomunicazione, manomissione informativa, affidabilità delle
+fonti e ciclo di vita dei processi.
+Consigliere dell’associazione studentesca musicale Polifonia.
+detail: https://github.com/GAntonacci95/cv-detail-polimi
+(raw: https://raw.githubusercontent.com/GAntonacci95/cv-detail-polimi/refs/heads/main/README.md )
+
+- dal 2014 al 2017 - Università di Bologna - 106/110
+
+Laurea Triennale in Ingegneria Informatica
+
+Assorbimento di nozioni su teoria del controllo, dei processi
+stocastici e dei segnali, pattern di design software e riflessività,
+dipendenze e corse critiche, reti di calcolatori, modelli e
+protocolli di comunicazione gerarchica e di fiducia.
+detail: https://github.com/GAntonacci95/cv-detail-unibo
+(raw: https://raw.githubusercontent.com/GAntonacci95/cv-detail-unibo/refs/heads/main/README.md )
+
+- dal 2009 al 2014 - ISII Marconi di Piacenza - 100/100
+
+Diploma di Perito Informatico
+
+Creazione di progetti in ambiti come automatica a controllo
+remoto, comunicazione testuale sincrona non bloccante,
+comunicazione audio tonale sincrona bloccante, spyware
+benigni.
+detail: https://github.com/GAntonacci95/cv-detail-isii
+(raw: https://raw.githubusercontent.com/GAntonacci95/cv-detail-isii/refs/heads/main/README.md )
+
+### Capacità relazionali e organizzative
+
+gestione informativa basilare, confidenzialità ed affidabilità,
+indipendenza disponibilità ed altruismo, autenticità e
+trasparenza con difficoltà comunicative nell'emergenza;
+orientamento a metodo e risultato, apprendimento
+integrazione e sintesi continue, gestione agenda e reminder.
+
+### Capacità e competenze tecniche
+aws, docker, ecr, step function, api, lambda,
+athena, sql, s3 datalakes,
+events, schedules, triggers, requests, python, git,
+simple email service, cloudwatch,
+quicksight
+
+# details
 # cv-detail-crif
 
 ## EN 🇬🇧 (jul 2022 - jul 2025)
